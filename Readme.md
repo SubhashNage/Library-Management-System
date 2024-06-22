@@ -20,11 +20,6 @@
 4. for user account register a new user
 ---
 # Contributors
-- ##### Rajendra Prajapat
-- ##### Dheeraj Chaudhary
-- ##### Priya Tiru
-- ##### Rajdeep Das
-- ##### Shashank N S
-
-##### Supervised By- Prof. Channappa B AKKI
-###### Academic Year: 2018-2019
+##### Subhash Nage
+##### Supervised By- Prof. Bhushan Rathi
+###### Academic Year: 2023-2024
